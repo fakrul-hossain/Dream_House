@@ -1,1 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+.navbar_icons{
+    border: 1px solid rgb(233, 233, 233);
+border-radius: 56px;
+background: rgb(255, 255, 255);
+}
+/* <img class="" src="./assets/Group 1.png" alt=""><i class="fa-solid  navbar_icons p-[10px] rounded-full  fa-magnifying-glass"><button><i class="fa-solid fa-user"></i></button> */
